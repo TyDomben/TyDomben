@@ -1,28 +1,33 @@
 ## 💫 About Me
 **Greetings! I'm Ty.**
 
-<img src="https://github.com/TyDomben/TyDomben/assets/127000572/49be9f6d-fc7c-4cd1-ac93-de59968ccf58" width="100px" />
+<img src="https://github.com/TyDomben/TyDomben/assets/127000572/49be9f6d-fc7c-4cd1-ac93-de59968ccf58" width="150px" />
+<!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/198709e4-1fa3-4ed0-af49-a98622121686) -->
 
 - **🌟 Tech Explorer:** My path in technology is paved with curiosity and an enthusiasm for discovery. I'm deeply interested in how diverse tech areas interconnect, always on the lookout for new knowledge and insights.
 
-  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/72096a66-9152-4d1f-bc49-3cec16723e91" width="100px" />
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/72096a66-9152-4d1f-bc49-3cec16723e91" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/8418fbaa-5fea-4011-8bb7-7695ee91db67) -->
 
 - **💡 AI Enthusiast & API Advocate:** I have a keen interest in Artificial Intelligence (AI) for its potential to simplify complex problems and make technology more accessible. I believe in the power of APIs to democratize AI, allowing developers of all skill levels to build amazing things without needing a PhD in mathematics.
 
-  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fe96a905-0e77-4148-9c16-1578aa2c5554" width="100px" />
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fe96a905-0e77-4148-9c16-1578aa2c5554" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/60126176-f26e-4bfe-82ae-ba6887cf74d7) -->
 
 - **🚀 Lifelong Learner:** I see every new concept or tool as an opportunity to grow. Whether it's exploring a new API, tinkering with an open-source project, or understanding a novel tech trend, I'm all in for the learning experience.
 
-  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fcef8178-d69b-4c64-a4b7-bfc346dc8a4a" width="100px" />
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fcef8178-d69b-4c64-a4b7-bfc346dc8a4a" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/bded8ce8-67e1-4a74-8e52-22b2a4b1016a) -->
 
 - **🔍 What You'll Find Here:** My GitHub is a canvas showcasing my tech explorations. From AI-powered projects leveraging APIs to practical code solutions in various languages, it's all about making technology work creatively.
 
-  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b829010d-a543-4582-b54f-479bbf81691d" width="100px" />
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b829010d-a543-4582-b54f-479bbf81691d" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/ece1355c-c5a8-4d01-ae8f-e9e65015837d) -->
 
 - **🤝 Open for Collaboration:** I'm always excited to collaborate on projects that push the boundaries of what's possible, share knowledge, and learn from the community. If you're looking for a teammate or just want to chat about tech, reach out!
 
-  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b0d39244-b43e-429d-91d4-85707e66f0e1" width="100px" />
-
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b0d39244-b43e-429d-91d4-85707e66f0e1" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/d6966030-c891-4379-be39-401a81231652) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ty Domben) 
