@@ -1,8 +1,9 @@
 ## 💫 About Me
 **Greetings! I'm Ty.**
-
-<img src="https://github.com/TyDomben/TyDomben/assets/127000572/49be9f6d-fc7c-4cd1-ac93-de59968ccf58" width="150px" />
-<!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/198709e4-1fa3-4ed0-af49-a98622121686) -->
+- Thanks for checking out my profile!
+  
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/49be9f6d-fc7c-4cd1-ac93-de59968ccf58" width="150px" />
+  <!-- ![image](https://github.com/TyDomben/TyDomben/assets/127000572/198709e4-1fa3-4ed0-af49-a98622121686) -->
 
 - **🌟 Tech Explorer:** My path in technology is paved with curiosity and an enthusiasm for discovery. I'm deeply interested in how diverse tech areas interconnect, always on the lookout for new knowledge and insights.
 
