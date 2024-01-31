@@ -1,15 +1,28 @@
 ## 💫 About Me
 **Greetings! I'm Ty.**
 
+<img src="https://github.com/TyDomben/TyDomben/assets/127000572/49be9f6d-fc7c-4cd1-ac93-de59968ccf58" width="100px" />
+
 - **🌟 Tech Explorer:** My path in technology is paved with curiosity and an enthusiasm for discovery. I'm deeply interested in how diverse tech areas interconnect, always on the lookout for new knowledge and insights.
+
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/72096a66-9152-4d1f-bc49-3cec16723e91" width="100px" />
 
 - **💡 AI Enthusiast & API Advocate:** I have a keen interest in Artificial Intelligence (AI) for its potential to simplify complex problems and make technology more accessible. I believe in the power of APIs to democratize AI, allowing developers of all skill levels to build amazing things without needing a PhD in mathematics.
 
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fe96a905-0e77-4148-9c16-1578aa2c5554" width="100px" />
+
 - **🚀 Lifelong Learner:** I see every new concept or tool as an opportunity to grow. Whether it's exploring a new API, tinkering with an open-source project, or understanding a novel tech trend, I'm all in for the learning experience.
+
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/fcef8178-d69b-4c64-a4b7-bfc346dc8a4a" width="100px" />
 
 - **🔍 What You'll Find Here:** My GitHub is a canvas showcasing my tech explorations. From AI-powered projects leveraging APIs to practical code solutions in various languages, it's all about making technology work creatively.
 
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b829010d-a543-4582-b54f-479bbf81691d" width="100px" />
+
 - **🤝 Open for Collaboration:** I'm always excited to collaborate on projects that push the boundaries of what's possible, share knowledge, and learn from the community. If you're looking for a teammate or just want to chat about tech, reach out!
+
+  <img src="https://github.com/TyDomben/TyDomben/assets/127000572/b0d39244-b43e-429d-91d4-85707e66f0e1" width="100px" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ty Domben) 
